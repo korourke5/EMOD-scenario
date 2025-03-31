@@ -1,0 +1,712 @@
+Beginning Simulation...
+1000 of 158793 (node) individuals initialized.
+2000 of 158793 (node) individuals initialized.
+3000 of 158793 (node) individuals initialized.
+4000 of 158793 (node) individuals initialized.
+5000 of 158793 (node) individuals initialized.
+6000 of 158793 (node) individuals initialized.
+7000 of 158793 (node) individuals initialized.
+8000 of 158793 (node) individuals initialized.
+9000 of 158793 (node) individuals initialized.
+10000 of 158793 (node) individuals initialized.
+11000 of 158793 (node) individuals initialized.
+12000 of 158793 (node) individuals initialized.
+13000 of 158793 (node) individuals initialized.
+14000 of 158793 (node) individuals initialized.
+15000 of 158793 (node) individuals initialized.
+16000 of 158793 (node) individuals initialized.
+17000 of 158793 (node) individuals initialized.
+18000 of 158793 (node) individuals initialized.
+19000 of 158793 (node) individuals initialized.
+20000 of 158793 (node) individuals initialized.
+21000 of 158793 (node) individuals initialized.
+22000 of 158793 (node) individuals initialized.
+23000 of 158793 (node) individuals initialized.
+24000 of 158793 (node) individuals initialized.
+25000 of 158793 (node) individuals initialized.
+26000 of 158793 (node) individuals initialized.
+27000 of 158793 (node) individuals initialized.
+28000 of 158793 (node) individuals initialized.
+29000 of 158793 (node) individuals initialized.
+30000 of 158793 (node) individuals initialized.
+31000 of 158793 (node) individuals initialized.
+32000 of 158793 (node) individuals initialized.
+33000 of 158793 (node) individuals initialized.
+34000 of 158793 (node) individuals initialized.
+35000 of 158793 (node) individuals initialized.
+36000 of 158793 (node) individuals initialized.
+37000 of 158793 (node) individuals initialized.
+38000 of 158793 (node) individuals initialized.
+39000 of 158793 (node) individuals initialized.
+40000 of 158793 (node) individuals initialized.
+41000 of 158793 (node) individuals initialized.
+42000 of 158793 (node) individuals initialized.
+43000 of 158793 (node) individuals initialized.
+44000 of 158793 (node) individuals initialized.
+45000 of 158793 (node) individuals initialized.
+46000 of 158793 (node) individuals initialized.
+47000 of 158793 (node) individuals initialized.
+48000 of 158793 (node) individuals initialized.
+49000 of 158793 (node) individuals initialized.
+50000 of 158793 (node) individuals initialized.
+51000 of 158793 (node) individuals initialized.
+52000 of 158793 (node) individuals initialized.
+53000 of 158793 (node) individuals initialized.
+54000 of 158793 (node) individuals initialized.
+55000 of 158793 (node) individuals initialized.
+56000 of 158793 (node) individuals initialized.
+57000 of 158793 (node) individuals initialized.
+58000 of 158793 (node) individuals initialized.
+59000 of 158793 (node) individuals initialized.
+60000 of 158793 (node) individuals initialized.
+61000 of 158793 (node) individuals initialized.
+62000 of 158793 (node) individuals initialized.
+63000 of 158793 (node) individuals initialized.
+64000 of 158793 (node) individuals initialized.
+65000 of 158793 (node) individuals initialized.
+66000 of 158793 (node) individuals initialized.
+67000 of 158793 (node) individuals initialized.
+68000 of 158793 (node) individuals initialized.
+69000 of 158793 (node) individuals initialized.
+70000 of 158793 (node) individuals initialized.
+71000 of 158793 (node) individuals initialized.
+72000 of 158793 (node) individuals initialized.
+73000 of 158793 (node) individuals initialized.
+74000 of 158793 (node) individuals initialized.
+75000 of 158793 (node) individuals initialized.
+76000 of 158793 (node) individuals initialized.
+77000 of 158793 (node) individuals initialized.
+78000 of 158793 (node) individuals initialized.
+79000 of 158793 (node) individuals initialized.
+80000 of 158793 (node) individuals initialized.
+81000 of 158793 (node) individuals initialized.
+82000 of 158793 (node) individuals initialized.
+83000 of 158793 (node) individuals initialized.
+84000 of 158793 (node) individuals initialized.
+85000 of 158793 (node) individuals initialized.
+86000 of 158793 (node) individuals initialized.
+87000 of 158793 (node) individuals initialized.
+88000 of 158793 (node) individuals initialized.
+89000 of 158793 (node) individuals initialized.
+90000 of 158793 (node) individuals initialized.
+91000 of 158793 (node) individuals initialized.
+92000 of 158793 (node) individuals initialized.
+93000 of 158793 (node) individuals initialized.
+94000 of 158793 (node) individuals initialized.
+95000 of 158793 (node) individuals initialized.
+96000 of 158793 (node) individuals initialized.
+97000 of 158793 (node) individuals initialized.
+98000 of 158793 (node) individuals initialized.
+99000 of 158793 (node) individuals initialized.
+100000 of 158793 (node) individuals initialized.
+101000 of 158793 (node) individuals initialized.
+102000 of 158793 (node) individuals initialized.
+103000 of 158793 (node) individuals initialized.
+104000 of 158793 (node) individuals initialized.
+105000 of 158793 (node) individuals initialized.
+106000 of 158793 (node) individuals initialized.
+107000 of 158793 (node) individuals initialized.
+108000 of 158793 (node) individuals initialized.
+109000 of 158793 (node) individuals initialized.
+110000 of 158793 (node) individuals initialized.
+111000 of 158793 (node) individuals initialized.
+112000 of 158793 (node) individuals initialized.
+113000 of 158793 (node) individuals initialized.
+114000 of 158793 (node) individuals initialized.
+115000 of 158793 (node) individuals initialized.
+116000 of 158793 (node) individuals initialized.
+117000 of 158793 (node) individuals initialized.
+118000 of 158793 (node) individuals initialized.
+119000 of 158793 (node) individuals initialized.
+120000 of 158793 (node) individuals initialized.
+121000 of 158793 (node) individuals initialized.
+122000 of 158793 (node) individuals initialized.
+123000 of 158793 (node) individuals initialized.
+124000 of 158793 (node) individuals initialized.
+125000 of 158793 (node) individuals initialized.
+126000 of 158793 (node) individuals initialized.
+127000 of 158793 (node) individuals initialized.
+128000 of 158793 (node) individuals initialized.
+129000 of 158793 (node) individuals initialized.
+130000 of 158793 (node) individuals initialized.
+131000 of 158793 (node) individuals initialized.
+132000 of 158793 (node) individuals initialized.
+133000 of 158793 (node) individuals initialized.
+134000 of 158793 (node) individuals initialized.
+135000 of 158793 (node) individuals initialized.
+136000 of 158793 (node) individuals initialized.
+137000 of 158793 (node) individuals initialized.
+138000 of 158793 (node) individuals initialized.
+139000 of 158793 (node) individuals initialized.
+140000 of 158793 (node) individuals initialized.
+141000 of 158793 (node) individuals initialized.
+142000 of 158793 (node) individuals initialized.
+143000 of 158793 (node) individuals initialized.
+144000 of 158793 (node) individuals initialized.
+145000 of 158793 (node) individuals initialized.
+146000 of 158793 (node) individuals initialized.
+147000 of 158793 (node) individuals initialized.
+148000 of 158793 (node) individuals initialized.
+149000 of 158793 (node) individuals initialized.
+150000 of 158793 (node) individuals initialized.
+151000 of 158793 (node) individuals initialized.
+152000 of 158793 (node) individuals initialized.
+153000 of 158793 (node) individuals initialized.
+154000 of 158793 (node) individuals initialized.
+155000 of 158793 (node) individuals initialized.
+156000 of 158793 (node) individuals initialized.
+157000 of 158793 (node) individuals initialized.
+158000 of 158793 (node) individuals initialized.
+1 of 552 steps complete.
+2 of 552 steps complete.
+3 of 552 steps complete.
+4 of 552 steps complete.
+5 of 552 steps complete.
+6 of 552 steps complete.
+7 of 552 steps complete.
+8 of 552 steps complete.
+9 of 552 steps complete.
+10 of 552 steps complete.
+11 of 552 steps complete.
+12 of 552 steps complete.
+13 of 552 steps complete.
+14 of 552 steps complete.
+15 of 552 steps complete.
+16 of 552 steps complete.
+17 of 552 steps complete.
+18 of 552 steps complete.
+19 of 552 steps complete.
+20 of 552 steps complete.
+21 of 552 steps complete.
+22 of 552 steps complete.
+23 of 552 steps complete.
+24 of 552 steps complete.
+25 of 552 steps complete.
+26 of 552 steps complete.
+27 of 552 steps complete.
+28 of 552 steps complete.
+29 of 552 steps complete.
+30 of 552 steps complete.
+31 of 552 steps complete.
+32 of 552 steps complete.
+33 of 552 steps complete.
+34 of 552 steps complete.
+35 of 552 steps complete.
+36 of 552 steps complete.
+37 of 552 steps complete.
+38 of 552 steps complete.
+39 of 552 steps complete.
+40 of 552 steps complete.
+41 of 552 steps complete.
+42 of 552 steps complete.
+43 of 552 steps complete.
+44 of 552 steps complete.
+45 of 552 steps complete.
+46 of 552 steps complete.
+47 of 552 steps complete.
+48 of 552 steps complete.
+49 of 552 steps complete.
+50 of 552 steps complete.
+51 of 552 steps complete.
+52 of 552 steps complete.
+53 of 552 steps complete.
+54 of 552 steps complete.
+55 of 552 steps complete.
+56 of 552 steps complete.
+57 of 552 steps complete.
+58 of 552 steps complete.
+59 of 552 steps complete.
+60 of 552 steps complete.
+61 of 552 steps complete.
+62 of 552 steps complete.
+63 of 552 steps complete.
+64 of 552 steps complete.
+65 of 552 steps complete.
+66 of 552 steps complete.
+67 of 552 steps complete.
+68 of 552 steps complete.
+69 of 552 steps complete.
+70 of 552 steps complete.
+71 of 552 steps complete.
+72 of 552 steps complete.
+73 of 552 steps complete.
+74 of 552 steps complete.
+75 of 552 steps complete.
+76 of 552 steps complete.
+77 of 552 steps complete.
+78 of 552 steps complete.
+79 of 552 steps complete.
+80 of 552 steps complete.
+81 of 552 steps complete.
+82 of 552 steps complete.
+83 of 552 steps complete.
+84 of 552 steps complete.
+85 of 552 steps complete.
+86 of 552 steps complete.
+87 of 552 steps complete.
+88 of 552 steps complete.
+89 of 552 steps complete.
+90 of 552 steps complete.
+91 of 552 steps complete.
+92 of 552 steps complete.
+93 of 552 steps complete.
+94 of 552 steps complete.
+95 of 552 steps complete.
+96 of 552 steps complete.
+97 of 552 steps complete.
+98 of 552 steps complete.
+99 of 552 steps complete.
+100 of 552 steps complete.
+101 of 552 steps complete.
+102 of 552 steps complete.
+103 of 552 steps complete.
+104 of 552 steps complete.
+105 of 552 steps complete.
+106 of 552 steps complete.
+107 of 552 steps complete.
+108 of 552 steps complete.
+109 of 552 steps complete.
+110 of 552 steps complete.
+111 of 552 steps complete.
+112 of 552 steps complete.
+113 of 552 steps complete.
+114 of 552 steps complete.
+115 of 552 steps complete.
+116 of 552 steps complete.
+117 of 552 steps complete.
+118 of 552 steps complete.
+119 of 552 steps complete.
+120 of 552 steps complete.
+121 of 552 steps complete.
+122 of 552 steps complete.
+123 of 552 steps complete.
+124 of 552 steps complete.
+125 of 552 steps complete.
+126 of 552 steps complete.
+127 of 552 steps complete.
+128 of 552 steps complete.
+129 of 552 steps complete.
+130 of 552 steps complete.
+131 of 552 steps complete.
+132 of 552 steps complete.
+133 of 552 steps complete.
+134 of 552 steps complete.
+135 of 552 steps complete.
+136 of 552 steps complete.
+137 of 552 steps complete.
+138 of 552 steps complete.
+139 of 552 steps complete.
+140 of 552 steps complete.
+141 of 552 steps complete.
+142 of 552 steps complete.
+143 of 552 steps complete.
+144 of 552 steps complete.
+145 of 552 steps complete.
+146 of 552 steps complete.
+147 of 552 steps complete.
+148 of 552 steps complete.
+149 of 552 steps complete.
+150 of 552 steps complete.
+151 of 552 steps complete.
+152 of 552 steps complete.
+153 of 552 steps complete.
+154 of 552 steps complete.
+155 of 552 steps complete.
+156 of 552 steps complete.
+157 of 552 steps complete.
+158 of 552 steps complete.
+159 of 552 steps complete.
+160 of 552 steps complete.
+161 of 552 steps complete.
+162 of 552 steps complete.
+163 of 552 steps complete.
+164 of 552 steps complete.
+165 of 552 steps complete.
+166 of 552 steps complete.
+167 of 552 steps complete.
+168 of 552 steps complete.
+169 of 552 steps complete.
+170 of 552 steps complete.
+171 of 552 steps complete.
+172 of 552 steps complete.
+173 of 552 steps complete.
+174 of 552 steps complete.
+175 of 552 steps complete.
+176 of 552 steps complete.
+177 of 552 steps complete.
+178 of 552 steps complete.
+179 of 552 steps complete.
+180 of 552 steps complete.
+181 of 552 steps complete.
+182 of 552 steps complete.
+183 of 552 steps complete.
+184 of 552 steps complete.
+185 of 552 steps complete.
+186 of 552 steps complete.
+187 of 552 steps complete.
+188 of 552 steps complete.
+189 of 552 steps complete.
+190 of 552 steps complete.
+191 of 552 steps complete.
+192 of 552 steps complete.
+193 of 552 steps complete.
+194 of 552 steps complete.
+195 of 552 steps complete.
+196 of 552 steps complete.
+197 of 552 steps complete.
+198 of 552 steps complete.
+199 of 552 steps complete.
+200 of 552 steps complete.
+201 of 552 steps complete.
+202 of 552 steps complete.
+203 of 552 steps complete.
+204 of 552 steps complete.
+205 of 552 steps complete.
+206 of 552 steps complete.
+207 of 552 steps complete.
+208 of 552 steps complete.
+209 of 552 steps complete.
+210 of 552 steps complete.
+211 of 552 steps complete.
+212 of 552 steps complete.
+213 of 552 steps complete.
+214 of 552 steps complete.
+215 of 552 steps complete.
+216 of 552 steps complete.
+217 of 552 steps complete.
+218 of 552 steps complete.
+219 of 552 steps complete.
+220 of 552 steps complete.
+221 of 552 steps complete.
+222 of 552 steps complete.
+223 of 552 steps complete.
+224 of 552 steps complete.
+225 of 552 steps complete.
+226 of 552 steps complete.
+227 of 552 steps complete.
+228 of 552 steps complete.
+229 of 552 steps complete.
+230 of 552 steps complete.
+231 of 552 steps complete.
+232 of 552 steps complete.
+233 of 552 steps complete.
+234 of 552 steps complete.
+235 of 552 steps complete.
+236 of 552 steps complete.
+237 of 552 steps complete.
+238 of 552 steps complete.
+239 of 552 steps complete.
+240 of 552 steps complete.
+241 of 552 steps complete.
+242 of 552 steps complete.
+243 of 552 steps complete.
+244 of 552 steps complete.
+245 of 552 steps complete.
+246 of 552 steps complete.
+247 of 552 steps complete.
+248 of 552 steps complete.
+249 of 552 steps complete.
+250 of 552 steps complete.
+251 of 552 steps complete.
+252 of 552 steps complete.
+253 of 552 steps complete.
+254 of 552 steps complete.
+255 of 552 steps complete.
+256 of 552 steps complete.
+257 of 552 steps complete.
+258 of 552 steps complete.
+259 of 552 steps complete.
+260 of 552 steps complete.
+261 of 552 steps complete.
+262 of 552 steps complete.
+263 of 552 steps complete.
+264 of 552 steps complete.
+265 of 552 steps complete.
+266 of 552 steps complete.
+267 of 552 steps complete.
+268 of 552 steps complete.
+269 of 552 steps complete.
+270 of 552 steps complete.
+271 of 552 steps complete.
+272 of 552 steps complete.
+273 of 552 steps complete.
+274 of 552 steps complete.
+275 of 552 steps complete.
+276 of 552 steps complete.
+277 of 552 steps complete.
+278 of 552 steps complete.
+279 of 552 steps complete.
+280 of 552 steps complete.
+281 of 552 steps complete.
+282 of 552 steps complete.
+283 of 552 steps complete.
+284 of 552 steps complete.
+285 of 552 steps complete.
+286 of 552 steps complete.
+287 of 552 steps complete.
+288 of 552 steps complete.
+289 of 552 steps complete.
+290 of 552 steps complete.
+291 of 552 steps complete.
+292 of 552 steps complete.
+293 of 552 steps complete.
+294 of 552 steps complete.
+295 of 552 steps complete.
+296 of 552 steps complete.
+297 of 552 steps complete.
+298 of 552 steps complete.
+299 of 552 steps complete.
+300 of 552 steps complete.
+301 of 552 steps complete.
+302 of 552 steps complete.
+303 of 552 steps complete.
+304 of 552 steps complete.
+305 of 552 steps complete.
+306 of 552 steps complete.
+307 of 552 steps complete.
+308 of 552 steps complete.
+309 of 552 steps complete.
+310 of 552 steps complete.
+311 of 552 steps complete.
+312 of 552 steps complete.
+313 of 552 steps complete.
+314 of 552 steps complete.
+315 of 552 steps complete.
+316 of 552 steps complete.
+317 of 552 steps complete.
+318 of 552 steps complete.
+319 of 552 steps complete.
+320 of 552 steps complete.
+321 of 552 steps complete.
+322 of 552 steps complete.
+323 of 552 steps complete.
+324 of 552 steps complete.
+325 of 552 steps complete.
+326 of 552 steps complete.
+327 of 552 steps complete.
+328 of 552 steps complete.
+329 of 552 steps complete.
+330 of 552 steps complete.
+331 of 552 steps complete.
+332 of 552 steps complete.
+333 of 552 steps complete.
+334 of 552 steps complete.
+335 of 552 steps complete.
+336 of 552 steps complete.
+337 of 552 steps complete.
+338 of 552 steps complete.
+339 of 552 steps complete.
+340 of 552 steps complete.
+341 of 552 steps complete.
+342 of 552 steps complete.
+343 of 552 steps complete.
+344 of 552 steps complete.
+345 of 552 steps complete.
+346 of 552 steps complete.
+347 of 552 steps complete.
+348 of 552 steps complete.
+349 of 552 steps complete.
+350 of 552 steps complete.
+351 of 552 steps complete.
+352 of 552 steps complete.
+353 of 552 steps complete.
+354 of 552 steps complete.
+355 of 552 steps complete.
+356 of 552 steps complete.
+357 of 552 steps complete.
+358 of 552 steps complete.
+359 of 552 steps complete.
+360 of 552 steps complete.
+361 of 552 steps complete.
+362 of 552 steps complete.
+363 of 552 steps complete.
+364 of 552 steps complete.
+365 of 552 steps complete.
+366 of 552 steps complete.
+367 of 552 steps complete.
+368 of 552 steps complete.
+369 of 552 steps complete.
+370 of 552 steps complete.
+371 of 552 steps complete.
+372 of 552 steps complete.
+373 of 552 steps complete.
+374 of 552 steps complete.
+375 of 552 steps complete.
+376 of 552 steps complete.
+377 of 552 steps complete.
+378 of 552 steps complete.
+379 of 552 steps complete.
+380 of 552 steps complete.
+381 of 552 steps complete.
+382 of 552 steps complete.
+383 of 552 steps complete.
+384 of 552 steps complete.
+385 of 552 steps complete.
+386 of 552 steps complete.
+387 of 552 steps complete.
+388 of 552 steps complete.
+389 of 552 steps complete.
+390 of 552 steps complete.
+391 of 552 steps complete.
+392 of 552 steps complete.
+393 of 552 steps complete.
+394 of 552 steps complete.
+395 of 552 steps complete.
+396 of 552 steps complete.
+397 of 552 steps complete.
+398 of 552 steps complete.
+399 of 552 steps complete.
+400 of 552 steps complete.
+401 of 552 steps complete.
+402 of 552 steps complete.
+403 of 552 steps complete.
+404 of 552 steps complete.
+405 of 552 steps complete.
+406 of 552 steps complete.
+407 of 552 steps complete.
+408 of 552 steps complete.
+409 of 552 steps complete.
+410 of 552 steps complete.
+411 of 552 steps complete.
+412 of 552 steps complete.
+413 of 552 steps complete.
+414 of 552 steps complete.
+415 of 552 steps complete.
+416 of 552 steps complete.
+417 of 552 steps complete.
+418 of 552 steps complete.
+419 of 552 steps complete.
+420 of 552 steps complete.
+421 of 552 steps complete.
+422 of 552 steps complete.
+423 of 552 steps complete.
+424 of 552 steps complete.
+425 of 552 steps complete.
+426 of 552 steps complete.
+427 of 552 steps complete.
+428 of 552 steps complete.
+429 of 552 steps complete.
+430 of 552 steps complete.
+431 of 552 steps complete.
+432 of 552 steps complete.
+433 of 552 steps complete.
+434 of 552 steps complete.
+435 of 552 steps complete.
+436 of 552 steps complete.
+437 of 552 steps complete.
+438 of 552 steps complete.
+439 of 552 steps complete.
+440 of 552 steps complete.
+441 of 552 steps complete.
+442 of 552 steps complete.
+443 of 552 steps complete.
+444 of 552 steps complete.
+445 of 552 steps complete.
+446 of 552 steps complete.
+447 of 552 steps complete.
+448 of 552 steps complete.
+449 of 552 steps complete.
+450 of 552 steps complete.
+451 of 552 steps complete.
+452 of 552 steps complete.
+453 of 552 steps complete.
+454 of 552 steps complete.
+455 of 552 steps complete.
+456 of 552 steps complete.
+457 of 552 steps complete.
+458 of 552 steps complete.
+459 of 552 steps complete.
+460 of 552 steps complete.
+461 of 552 steps complete.
+462 of 552 steps complete.
+463 of 552 steps complete.
+464 of 552 steps complete.
+465 of 552 steps complete.
+466 of 552 steps complete.
+467 of 552 steps complete.
+468 of 552 steps complete.
+469 of 552 steps complete.
+470 of 552 steps complete.
+471 of 552 steps complete.
+472 of 552 steps complete.
+473 of 552 steps complete.
+474 of 552 steps complete.
+475 of 552 steps complete.
+476 of 552 steps complete.
+477 of 552 steps complete.
+478 of 552 steps complete.
+479 of 552 steps complete.
+480 of 552 steps complete.
+481 of 552 steps complete.
+482 of 552 steps complete.
+483 of 552 steps complete.
+484 of 552 steps complete.
+485 of 552 steps complete.
+486 of 552 steps complete.
+487 of 552 steps complete.
+488 of 552 steps complete.
+489 of 552 steps complete.
+490 of 552 steps complete.
+491 of 552 steps complete.
+492 of 552 steps complete.
+493 of 552 steps complete.
+494 of 552 steps complete.
+495 of 552 steps complete.
+496 of 552 steps complete.
+497 of 552 steps complete.
+498 of 552 steps complete.
+499 of 552 steps complete.
+500 of 552 steps complete.
+501 of 552 steps complete.
+502 of 552 steps complete.
+503 of 552 steps complete.
+504 of 552 steps complete.
+505 of 552 steps complete.
+506 of 552 steps complete.
+507 of 552 steps complete.
+508 of 552 steps complete.
+509 of 552 steps complete.
+510 of 552 steps complete.
+511 of 552 steps complete.
+512 of 552 steps complete.
+513 of 552 steps complete.
+514 of 552 steps complete.
+515 of 552 steps complete.
+516 of 552 steps complete.
+517 of 552 steps complete.
+518 of 552 steps complete.
+519 of 552 steps complete.
+520 of 552 steps complete.
+521 of 552 steps complete.
+522 of 552 steps complete.
+523 of 552 steps complete.
+524 of 552 steps complete.
+525 of 552 steps complete.
+526 of 552 steps complete.
+527 of 552 steps complete.
+528 of 552 steps complete.
+529 of 552 steps complete.
+530 of 552 steps complete.
+531 of 552 steps complete.
+532 of 552 steps complete.
+533 of 552 steps complete.
+534 of 552 steps complete.
+535 of 552 steps complete.
+536 of 552 steps complete.
+537 of 552 steps complete.
+538 of 552 steps complete.
+539 of 552 steps complete.
+540 of 552 steps complete.
+541 of 552 steps complete.
+542 of 552 steps complete.
+543 of 552 steps complete.
+544 of 552 steps complete.
+545 of 552 steps complete.
+546 of 552 steps complete.
+547 of 552 steps complete.
+548 of 552 steps complete.
+549 of 552 steps complete.
+550 of 552 steps complete.
+551 of 552 steps complete.
+552 of 552 steps complete.
+Done - 0:35:40
